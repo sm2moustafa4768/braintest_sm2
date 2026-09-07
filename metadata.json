@@ -1,0 +1,6 @@
+{
+  "name": "Brain Trainer",
+  "description": "Simple, fast, and visually clean cognitive training app with mini-games for memory, focus, reaction speed, and logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
